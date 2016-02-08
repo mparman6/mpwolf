@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mparman6/mpwolf/issues"
   },
-  "homepage": "https://github.com/mparman6/mpwolf#readme"
+  "homepage": "https://github.com/mparman6/mpwolf#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
